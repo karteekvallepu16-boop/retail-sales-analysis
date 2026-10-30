@@ -1,0 +1,121 @@
+order_id,order_date,region,category,product,quantity,unit_price,unit_cost
+ORD0001,13-01-2025,South,Electronics,Mouse,5,18,8
+ORD0002,13-03-2025,North,Furniture,Office Chair,2,140,90
+ORD0003,05-08-2025,North,Electronics,Monitor,1,210,160
+ORD0004,22-04-2025,North,Electronics,Mouse,4,18,8
+ORD0005,12-04-2025,South,Accessories,Backpack,7,45,22
+ORD0006,29-10-2025,North,Accessories,Water Bottle,5,15,6
+ORD0007,24-12-2025,East,Electronics,Keyboard,7,35,18
+ORD0008,21-03-2025,East,Furniture,Desk,4,220,150
+ORD0009,17-02-2025,North,Electronics,Mouse,7,18,8
+ORD0010,26-06-2025,North,Stationery,Notebook,5,4,1.5
+ORD0011,02-10-2025,West,Accessories,Water Bottle,2,15,6
+ORD0012,10-10-2025,East,Electronics,Mouse,5,18,8
+ORD0013,09-04-2025,North,Electronics,Monitor,2,210,160
+ORD0014,29-05-2025,South,Furniture,Office Chair,2,140,90
+ORD0015,14-07-2025,West,Electronics,Mouse,5,18,8
+ORD0016,25-03-2025,East,Stationery,Notebook,6,4,1.5
+ORD0017,10-12-2025,North,Furniture,Office Chair,5,140,90
+ORD0018,22-11-2025,South,Electronics,Monitor,3,210,160
+ORD0019,25-08-2025,East,Electronics,Keyboard,7,35,18
+ORD0020,23-04-2025,North,Accessories,Backpack,6,45,22
+ORD0021,17-01-2025,West,Furniture,Office Chair,6,140,90
+ORD0022,03-02-2025,East,Furniture,Desk,4,220,150
+ORD0023,02-12-2025,West,Furniture,Office Chair,8,140,90
+ORD0024,15-03-2025,South,Accessories,Water Bottle,5,15,6
+ORD0025,15-10-2025,West,Furniture,Office Chair,5,140,90
+ORD0026,24-07-2025,South,Electronics,Monitor,6,210,160
+ORD0027,18-09-2025,North,Electronics,Keyboard,8,35,18
+ORD0028,26-02-2025,South,Electronics,Laptop,3,650,520
+ORD0029,02-11-2025,West,Stationery,Pen Pack,2,6,2
+ORD0030,02-11-2025,East,Stationery,Pen Pack,8,6,2
+ORD0031,06-01-2025,East,Accessories,Backpack,2,45,22
+ORD0032,27-02-2025,West,Stationery,Notebook,5,4,1.5
+ORD0033,21-08-2025,East,Electronics,Keyboard,1,35,18
+ORD0034,02-04-2025,East,Accessories,Backpack,2,45,22
+ORD0035,08-11-2025,South,Accessories,Backpack,4,45,22
+ORD0036,24-03-2025,East,Stationery,Notebook,1,4,1.5
+ORD0037,10-01-2025,East,Accessories,Water Bottle,2,15,6
+ORD0038,03-05-2025,South,Furniture,Desk,1,220,150
+ORD0039,10-02-2025,West,Electronics,Monitor,2,210,160
+ORD0040,30-09-2025,South,Electronics,Mouse,3,18,8
+ORD0041,09-10-2025,East,Accessories,Water Bottle,3,15,6
+ORD0042,07-11-2025,South,Accessories,Backpack,7,45,22
+ORD0043,20-12-2025,East,Accessories,Backpack,4,45,22
+ORD0044,10-12-2025,West,Stationery,Pen Pack,6,6,2
+ORD0045,20-08-2025,South,Accessories,Backpack,2,45,22
+ORD0046,02-02-2025,North,Furniture,Office Chair,6,140,90
+ORD0047,11-10-2025,South,Electronics,Monitor,4,210,160
+ORD0048,06-02-2025,South,Electronics,Laptop,1,650,520
+ORD0049,17-01-2025,North,Electronics,Mouse,6,18,8
+ORD0050,02-05-2025,West,Accessories,Backpack,5,45,22
+ORD0051,04-10-2025,West,Furniture,Office Chair,3,140,90
+ORD0052,31-08-2025,South,Furniture,Office Chair,7,140,90
+ORD0053,19-02-2025,East,Electronics,Mouse,7,18,8
+ORD0054,30-07-2025,North,Stationery,Pen Pack,8,6,2
+ORD0055,01-02-2025,East,Electronics,Mouse,7,18,8
+ORD0056,08-05-2025,South,Electronics,Mouse,4,18,8
+ORD0057,18-08-2025,West,Accessories,Backpack,3,45,22
+ORD0058,23-05-2025,South,Electronics,Keyboard,8,35,18
+ORD0059,15-08-2025,North,Electronics,Mouse,2,18,8
+ORD0060,08-01-2025,South,Accessories,Backpack,2,45,22
+ORD0061,28-07-2025,West,Electronics,Keyboard,8,35,18
+ORD0062,25-07-2025,South,Furniture,Office Chair,1,140,90
+ORD0063,02-01-2025,East,Stationery,Pen Pack,7,6,2
+ORD0064,27-05-2025,West,Accessories,Water Bottle,7,15,6
+ORD0065,08-04-2025,South,Electronics,Keyboard,5,35,18
+ORD0066,24-10-2025,East,Electronics,Laptop,1,650,520
+ORD0067,26-01-2025,South,Electronics,Laptop,8,650,520
+ORD0068,18-09-2025,South,Electronics,Laptop,2,650,520
+ORD0069,01-11-2025,South,Electronics,Mouse,2,18,8
+ORD0070,03-03-2025,North,Stationery,Pen Pack,4,6,2
+ORD0071,11-02-2025,East,Electronics,Monitor,7,210,160
+ORD0072,15-04-2025,South,Furniture,Desk,6,220,150
+ORD0073,22-07-2025,East,Furniture,Desk,3,220,150
+ORD0074,11-06-2025,North,Accessories,Water Bottle,2,15,6
+ORD0075,15-11-2025,North,Accessories,Water Bottle,2,15,6
+ORD0076,20-04-2025,South,Accessories,Backpack,5,45,22
+ORD0077,05-02-2025,East,Stationery,Notebook,4,4,1.5
+ORD0078,22-03-2025,East,Furniture,Desk,8,220,150
+ORD0079,01-12-2025,East,Electronics,Monitor,1,210,160
+ORD0080,10-03-2025,North,Electronics,Mouse,5,18,8
+ORD0081,11-10-2025,East,Electronics,Mouse,3,18,8
+ORD0082,06-11-2025,East,Furniture,Desk,4,220,150
+ORD0083,18-12-2025,West,Furniture,Office Chair,5,140,90
+ORD0084,27-01-2025,West,Furniture,Desk,2,220,150
+ORD0085,23-01-2025,East,Furniture,Desk,1,220,150
+ORD0086,23-11-2025,South,Electronics,Keyboard,5,35,18
+ORD0087,10-10-2025,North,Accessories,Water Bottle,7,15,6
+ORD0088,08-02-2025,North,Electronics,Mouse,3,18,8
+ORD0089,26-10-2025,West,Stationery,Notebook,3,4,1.5
+ORD0090,22-01-2025,East,Electronics,Keyboard,5,35,18
+ORD0091,03-07-2025,South,Electronics,Laptop,4,650,520
+ORD0092,01-07-2025,South,Electronics,Mouse,7,18,8
+ORD0093,25-03-2025,West,Furniture,Office Chair,3,140,90
+ORD0094,02-04-2025,West,Electronics,Laptop,6,650,520
+ORD0095,17-05-2025,North,Furniture,Office Chair,3,140,90
+ORD0096,20-01-2025,South,Stationery,Pen Pack,8,6,2
+ORD0097,24-08-2025,East,Furniture,Office Chair,6,140,90
+ORD0098,25-04-2025,South,Furniture,Office Chair,1,140,90
+ORD0099,18-06-2025,North,Stationery,Pen Pack,5,6,2
+ORD0100,29-06-2025,East,Furniture,Desk,7,220,150
+ORD0101,01-03-2025,South,Electronics,Laptop,5,650,520
+ORD0102,16-05-2025,North,Electronics,Monitor,1,210,160
+ORD0103,11-08-2025,East,Electronics,Monitor,6,210,160
+ORD0104,07-11-2025,West,Stationery,Pen Pack,2,6,2
+ORD0105,08-04-2025,North,Electronics,Monitor,5,210,160
+ORD0106,01-01-2025,East,Stationery,Pen Pack,4,6,2
+ORD0107,05-02-2025,East,Stationery,Pen Pack,6,6,2
+ORD0108,03-06-2025,West,Electronics,Mouse,5,18,8
+ORD0109,26-07-2025,South,Stationery,Notebook,5,4,1.5
+ORD0110,04-08-2025,South,Furniture,Office Chair,7,140,90
+ORD0111,19-10-2025,West,Electronics,Monitor,5,210,160
+ORD0112,01-01-2025,East,Accessories,Backpack,5,45,22
+ORD0113,09-08-2025,West,Furniture,Office Chair,6,140,90
+ORD0114,15-08-2025,West,Accessories,Water Bottle,4,15,6
+ORD0115,04-12-2025,East,Electronics,Keyboard,2,35,18
+ORD0116,06-12-2025,North,Accessories,Backpack,6,45,22
+ORD0117,11-12-2025,South,Furniture,Office Chair,5,140,90
+ORD0118,17-03-2025,North,Furniture,Office Chair,1,140,90
+ORD0119,01-09-2025,West,Furniture,Office Chair,2,140,90
+ORD0120,19-11-2025,West,Stationery,Pen Pack,4,6,2
