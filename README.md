@@ -33,3 +33,6 @@ Developed practical business analysis skills.
 Vallepu Karteek
 Aspiring Data Analyst
 Project Status: Project uploaded to GitHub.
+9. Live Tableau Dashboard
+Explore my interactive Retail Sales Performance Dashboard:
+"View Interactive Tableau Dashboard" (https://public.tableau.com/app/profile/karteek.vallepu/viz/Book2_17933391169470/Dashboard2)
