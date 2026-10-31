@@ -25,3 +25,6 @@ sales trends, profitable products, and regional performance.
 ## Conclusion
 The analysis helps identify high-performing products,
 categories, and regions to support better business decisions.
+## Dashboard Preview
+
+![Retail Sales Dashboard](retail_sales_dashboard.png)
