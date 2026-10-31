@@ -28,3 +28,9 @@ categories, and regions to support better business decisions.
 ## Dashboard Preview
 
 ![Retail Sales Dashboard](retail_sales_dashboard.png)
+
+## Tableau Public Portfolio
+
+Explore my Tableau dashboards here:
+
+[View My Tableau Dashboards](https://public.tableau.com/app/profile/karteek.vallepu/vizzes)
